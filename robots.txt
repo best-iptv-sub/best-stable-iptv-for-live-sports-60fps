@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://best-iptv-sub.github.io/best-stable-iptv-for-live-sports-60fps/sitemap.xml
